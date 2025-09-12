@@ -4,9 +4,7 @@
     "description": "API endpoint for crypto watcher data",
     "main": "index.js",
     "scripts": {
-        "dev": "vercel dev",
-        "build": "echo 'Build complete'",
-        "start": "vercel dev"
+        "dev": "vercel dev"
     },
     "dependencies": {
         "google-spreadsheet": "^4.1.2"
