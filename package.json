@@ -7,6 +7,7 @@
         "dev": "vercel dev"
     },
     "dependencies": {
+        "google-auth-library": "^10.3.0",
         "google-spreadsheet": "^4.1.2"
     },
     "engines": {
