@@ -3,3 +3,6 @@ node_modules/
 .env
 .vercel
 *.log
+.env*.local
+.service-account-key.json
+.next
